@@ -7,7 +7,7 @@
 - 💬 **My Role in Schrodinger** 
    
        - Solutions Architect, 
-       - Deplyoing Licences o clients 
+       - Deploying Licences to the clients 
        - Maintaning the users in Cloud (AWS, GCP)
        
 - 🌱 **Programming Skills**
