@@ -1,20 +1,15 @@
 ### <h1 align="center">ANJI BABU KAPAKAYALA</h1>
 
 
-- 🔭 I’m a joint Ph.D. Scholar between IIT Kanpur, India and Curtin University, Australia.
+- 🔭 I’m a Senior Solutions Architect 1 at Schrodinger, Inc.
+-    I have submitted my Ph.D. thesis to IIT Kanpur, India and Curtin University Australia.
 
-- 💬 **Research Interest** 
+- 💬 **My Role in Schrodinger** 
    
-       - Molecular Dynamics, 
-       - Computational Biology Physics
-       - CV discovery using neural networks or deep learning
-       - Developement of enhanced sampling methods and Machine learning.
-       - Software developement 
+       - Solutions Architect, 
+       - Deplyoing Licences o clients 
+       - Maintaning the users in Cloud (AWS, GCP)
        
-- ⚡**Status of Ph.D.**
- 
-       Submitted the thesis and Joined as Senior Solutions Archetect 1 in Schrodinger.
-
 - 🌱 **Programming Skills**
 
       Fortran, Python, bash/shell, Makefile, Machine Learning, MPI Programming
@@ -48,9 +43,9 @@
 <br />
 
 ### Stats :
-[![Anji's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjibabuIITK&show_icons=true&theme=merko)](https://github.com/anjibabuIITK/github-readme-stats)
+[![Anji's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapakayala&show_icons=true&theme=merko)](https://github.com/kapakayala/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjibabuIITK&hide=javascript,html,Roff,css,Cmake&layout=compact&theme=radical)](https://github.com/anjibabuIITK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapakayala&hide=javascript,html,Roff,css,Cmake&layout=compact&theme=radical)](https://github.com/kapakayala/github-readme-stats)
 
 <br />
 
@@ -63,4 +58,9 @@
 
 <br />
 <br />
+
+
+
+
+
 
