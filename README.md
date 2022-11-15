@@ -4,6 +4,9 @@
 - 🔭 I’m a Senior Solutions Architect 1 at Schrodinger, Inc.
 -    I have submitted my Ph.D. thesis to IIT Kanpur, India and Curtin University Australia.
 
+- **[CV]**(https://github.com/kapakayala/CV/blob/main/Anji_CV.pdf)
+
+
 - 💬 **My Role in Schrodinger** 
    
        - Solutions Architect, 
