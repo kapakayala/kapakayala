@@ -1,4 +1,4 @@
-### <h1 align="center">ANJI BABU KAPAKAYALA [**CV**](https://github.com/kapakayala/CV/blob/main/Anji_CV.pdf)</h1>
+### <h1 align="center">ANJI BABU KAPAKAYALA [[**CV**](https://github.com/kapakayala/CV/blob/main/Anji_CV.pdf)]</h1>
 
 
 - 🔭 I’m a Senior Solutions Architect 1 at Schrodinger, Inc.
